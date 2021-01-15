@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<route>
+	<routeName>test.xml</routeName>
+	  
+	<routeleg>
+		   
+		<pos>0</pos>
+		   
+		<lat>52.22042356965302</lat>
+		   
+		<lng>9.64794921875</lng>
+		  
+	</routeleg>
+	  
+	<routeleg>
+		   
+		<pos>1</pos>
+		   
+		<lat>50.01412167665154</lat>
+		   
+		<lng>11.71337890625</lng>
+		  
+	</routeleg>
+	  
+	<routeleg>
+		   
+		<pos>2</pos>
+		   
+		<lat>51.24062565946004</lat>
+		   
+		<lng>16.72314453125</lng>
+		  
+	</routeleg>
+</route>

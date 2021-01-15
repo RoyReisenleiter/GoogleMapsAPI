@@ -1,0 +1,9 @@
+<routes>
+    <route name="route name">
+        <routeleg>
+            <pos>pos value1</pos>
+            <lng>lang value2</lng>
+            <lat>lat value3</lat>
+        </routeleg>
+    </route>
+</routes>
